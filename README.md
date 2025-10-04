@@ -1,5 +1,7 @@
 # 🛰️ CTRL + Sky: NASA GES DISC Weather Explorer
 
+**to visit the website open it from this link : 
+https://a7med-talaat.github.io/CTRL-Sky-weather-prediction-system-nasaa-space-apps-challenge-solution-/**
 **CTRL + Sky** is an advanced, AI-powered weather prediction system built to analyze historical patterns and forecast future conditions for any global location. It leverages simulated data access from **NASA's Goddard Earth Sciences Data and Information Services Center (GES DISC)** and modern machine learning techniques, all presented in a sleek, interactive, space-themed web application.
 
 ---
